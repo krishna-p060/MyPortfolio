@@ -1,0 +1,48 @@
+.intro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10em;
+    padding-right: 10em;
+    background-color: #0d1b2a; /* Dark background color */
+    color: #fff;
+    height: 100vh;
+    
+}
+
+
+.intro-text {
+    text-align: justify;
+    max-width: 70%;
+}
+
+.intro-text p {
+    font-size: 1.2em;
+    margin: 0.5em 0em;
+}
+
+.intro-text p span{
+    color: #8a4af3;
+}
+
+.name-highlight {
+    color: #8a4af3; /* Purple color */
+}
+
+.intro-text h1 {
+    font-size: 3.5em;
+    margin: 0.5em 0;
+}
+
+.intro-text h1 span{
+    color: #8a4af3;
+}
+
+.intro-image {
+    max-width: 25%; /* Adjust this value as per your requirement */
+}
+
+.intro-image img {
+    max-width: 100%;
+    height: auto;
+}

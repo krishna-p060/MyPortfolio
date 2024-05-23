@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    /*position: fixed;*/
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 120px;
+    background-color: #0d1b2a; /* Dark background color */
+    color: #fff;
+}
+
+.Navbar-logo h1{
+    color: #8a4af3;
+}
+
+.Navbar-nav{
+    display: flex;
+    gap: 70px;
+}
+
+.Navbar-nav li{
+    display: flex;
+    align-items: center;
+}
+
+.Navbar-nav li a {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.Navbar-nav li a i {
+    margin-right: 8px; /* Spacing between icon and text */
+}
+
+.Navbar-nav li a:hover {
+    color: #8a4af3;
+}
+
+
