@@ -60,10 +60,9 @@ function Home() {
                 typingSpeed = {100}
                 deletingSpeed = {60}
                 duration = {1000}
-
-
                 />
             </div>
+
             <div className="home-image">
                 <img src={krish} alt="Krishna's Image" />
             </div>

@@ -1,6 +1,6 @@
 .home{
     display: flex ;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     background-color: #0d1b2a; /* Dark background color */
     color: #fff;

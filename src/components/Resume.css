@@ -1,0 +1,27 @@
+.resPdf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+}
+
+.downloadCV {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+  
+  .downloadCV:hover {
+    background-color: #0056b3;
+  }
