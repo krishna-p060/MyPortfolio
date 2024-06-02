@@ -1,10 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
-import Home from './components/Home';
-import {Route,BrowserRouter as Router, Routes, Link} from 'react-router-dom';
-import About from './components/About';
-import Projects from './components/Projects';
+import {Route,BrowserRouter as Router, Routes} from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ProjectsPage from './pages/ProjectPage';

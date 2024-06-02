@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intro.css';
-import krish from './krish.png';
+// import krish from './krish.png';
 
 function Intro() {
   return (

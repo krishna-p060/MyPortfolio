@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.css';
 import krish from './krish.png';
 import Intro from './Intro';
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 import Typing from './Typing';
 
 function Home() {

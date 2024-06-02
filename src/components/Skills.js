@@ -1,7 +1,7 @@
 import React from 'react';
 import './Skills.css';
 import { CgCPlusPlus } from "react-icons/cg";
-import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
+import {FaReact, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
 import {SiExpress, SiMongodb, SiPostman, SiVercel} from "react-icons/si";
 
