@@ -11,10 +11,10 @@ function Projects() {
         <div>
           <h1 className='projectHeading'>My <b>Projects</b></h1>
           <div className='project'>
-            <ProjectBox projectPhoto={p1} projectName="Wiggles" />
-            <ProjectBox projectPhoto={p2} projectName="Newsletter" />
+            <ProjectBox projectPhoto={p1} projectName="WallCraft" />
+            <ProjectBox projectPhoto={p2} projectName="Evento" />
             <ProjectBox projectPhoto={p3} projectName="Bhashini" />
-            <ProjectBox projectPhoto={p4} projectName="Tindog" />
+            <ProjectBox projectPhoto={p4} projectName="DVoting" />
           </div>
     
         </div>

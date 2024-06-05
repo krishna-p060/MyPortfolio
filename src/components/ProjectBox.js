@@ -6,21 +6,21 @@ import './Projects.css';
 
 function ProjectBox({projectPhoto, projectName}) {
     const desc = {
-        TindogDesc : "This website is a landing page of Tinder but for dogs. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using Github pages.",
-        TindogGithub : "https://github.com/krishna-p060",
-        TindogWebsite : "https://devanshsahni.github.io/tindog/",
+        WallCraftDesc : "An UrbanCompany special project to apply wall panels on wall virtually, built using VisionOS, Swift, ARKit. This project helps consumer in better & quick decision making",
+        WallCraftGithub : "https://github.com/krishna-p060/WallCraft_UC_version2",
+        WallCraftWebsite : "https://github.com/krishna-p060/WallCraft_UC_version2",
     
         BhashiniDesc : "A website that translates between various Indian languages. This project was made to understand API integration, environment variables and vercel deployment. The website is hosted on Vercel .",
         BhashiniGithub : "https://github.com/krishna-p060/bhashini_Language_Translator",
         BhashiniWebsite : "https://krishna-p060.github.io/bhashini_Language_Translator/",
     
-        NewsletterDesc:"A newsletter signup site made using Mailchimp API where the signups can be monitored from the MailChimp account. This project was made to understand API integration, environment variables and vercel deployment.",
-        NewsletterGithub:"https://github.com/krishna-p060",
-        NewsletterWebsite:"https://newsletter-signup-teal.vercel.app/",
+        EventoDesc:"Developed a robust event management backend system using Spring Boot framework to facilitate event creation, scheduling, and participant registration.",
+        EventoGithub:"https://github.com/krishna-p060/EventManagement",
+        EventoWebsite:"https://github.com/krishna-p060/EventManagement",
         
-        WigglesDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
-        WigglesGithub:"https://github.com/krishna-p060",
-        WigglesWebsite:"https://wiggles.vercel.app/",
+        DVotingDesc:"A Blockchain based decentralised voting system. Voters can vote through their metamask account and votes will be managed by smart contract deployed on Ethereum blockchain.",
+        DVotingGithub:"https://github.com/krishna-p060/decentralised_Voting_System",
+        DVotingWebsite:"https://github.com/krishna-p060/decentralised_Voting_System",
       }
     
       let show ='';
