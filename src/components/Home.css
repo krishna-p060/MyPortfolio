@@ -6,13 +6,13 @@
     color: #fff;
     padding-left: 10em;
     padding-right: 10em;
-    height: 100vh;
+    height: 80vh;
+    /* margin-top: 0; */
 }
 
-.home-text{
+.home-text {
     text-align: left;
     width: 100%;
-
 }
 
 .home-text p {
