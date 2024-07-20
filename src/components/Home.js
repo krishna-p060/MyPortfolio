@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import krish from './krish.png';
+import krish from './pic.png';
 import Intro from './Intro';
 // import { useState, useEffect } from 'react';
 import Typing from './Typing';

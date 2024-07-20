@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Document, Page } from 'react-pdf';
-import res from '../Krishna_s_Resume_2.pdf'
+import res from '../resume6.pdf'
 import { BsDownload } from "react-icons/bs";
 import './Resume.css';
 
